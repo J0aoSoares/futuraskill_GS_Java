@@ -4,7 +4,7 @@
 
 ## Resumo
 
-Este projeto consiste no desenvolvimento de uma API RESTful, denominada **FuturaSkill 2030**, que simula uma plataforma de capacitação profissional focada em *upskilling* e *reskilling*. A aplicação foi concebida no contexto da disciplina de Global Solution da FIAP, visando abordar as transformações no mercado de trabalho e a necessidade de aprendizado contínuo. A plataforma permite o gerenciamento de usuários e trilhas de conhecimento, fornecendo uma base para sistemas de gestão de talentos e desenvolvimento de competências.
+Este projeto consiste no desenvolvimento de uma API RESTful, denominada **FuturaSkill 2030**, que simula uma plataforma de capacitação profissional git lohggoyfocada em *upskilling* e *reskilling*. A aplicação foi concebida no contexto da disciplina de Global Solution da FIAP, visando abordar as transformações no mercado de trabalho e a necessidade de aprendizado contínuo. A plataforma permite o gerenciamento de usuários e trilhas de conhecimento, fornecendo uma base para sistemas de gestão de talentos e desenvolvimento de competências.
 
 ## Introdução
 
@@ -68,11 +68,3 @@ A API expõe recursos para o gerenciamento de usuários e trilhas de aprendizado
    ./mvnw spring-boot:run
    ```
 A API estará acessível em `http://localhost:8080`.
-
-## Autores
-
-**Nome do Aluno(a)**
-- **Nome:** [Seu Nome Completo]
-- **RM:** [Seu RM]
-- **Turma:** [Sua Turma]
-# futuraskill_GS_Java
